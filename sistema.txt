@@ -1,0 +1,4 @@
+recurso 01
+recurso 02
+recurso 03
+recurso 04 //bug na tela de cadastro de produto
